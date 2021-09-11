@@ -1,4 +1,4 @@
-# Python-Project-Shutdown-and-Restart-Computer 🐍
+# Python Project: Shutdown and Restart Computer 🐍
 
 Python Script<br>
 This repo contains python code that shuts down or turns off your computer depending on your input.<br>
